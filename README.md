@@ -1,4 +1,4 @@
-### Hi, my name is Ivanna and I'm a junior frontend developer from Kyiv, Ukraine  👋
+### Hi, my name is Ivanna and I'm a frontend developer from Kyiv, Ukraine  👋
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnhMmEpEaholWxXogQ/giphy.gif" width="100"/>
